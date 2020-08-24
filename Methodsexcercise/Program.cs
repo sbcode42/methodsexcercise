@@ -9,7 +9,7 @@ namespace Methodsexcercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine ("What is your name?");
+            Console.WriteLine("What is your name?");
             string userName = Console.ReadLine();
 
             Console.WriteLine("How old are you?");
@@ -35,16 +35,31 @@ namespace Methodsexcercise
             int num2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Thank You!");
-            
-            int sum = Sum(num1, num2);
-            Console.WriteLine($"The sum of your choices is {sum}");
-        }
-        public static int Sum(int num1, int num2)
-        {
-            int sum = num1 + num2;
-            return sum; 
+            Console.WriteLine();
+            int sum = Sum(num1, num2, 10);
+            Console.WriteLine($"The sum of your choice plus 10 is {sum}. Math is awesome!");
 
-            //return num1 + num2
+            Console.WriteLine("That was dope, let's do two more!");
+            Console.WriteLine();
+            Console.WriteLine("Choose another number...");
+            num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("And your last choice of number?");
+            num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Groovy!");
+            int product = Multiply(num1, num2);
+            Console.WriteLine($"{num1} and {num2} multiplied equals {product}");                    
+        }
+        public static int Sum(params int[] list)
+        {
+            int sum = 0;
+           
+            for(int i = 0; i < list.Length; i++)
+            {
+                sum = sum + list[i];
+            }
+           
+            return sum;
+         
         }
         public static int Multiply(int x, int y)
         {
