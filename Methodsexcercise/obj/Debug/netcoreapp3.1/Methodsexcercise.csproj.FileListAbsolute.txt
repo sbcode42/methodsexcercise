@@ -1,0 +1,13 @@
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.csprojAssemblyReference.cache
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.AssemblyInfoInputs.cache
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.AssemblyInfo.cs
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.csproj.CoreCompileInputs.cache
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\bin\Debug\netcoreapp3.1\Methodsexcercise.exe
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\bin\Debug\netcoreapp3.1\Methodsexcercise.deps.json
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\bin\Debug\netcoreapp3.1\Methodsexcercise.runtimeconfig.json
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\bin\Debug\netcoreapp3.1\Methodsexcercise.runtimeconfig.dev.json
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\bin\Debug\netcoreapp3.1\Methodsexcercise.dll
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\bin\Debug\netcoreapp3.1\Methodsexcercise.pdb
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.dll
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.pdb
+C:\Users\sbhop\repos\Methodsexcercise\Methodsexcercise\obj\Debug\netcoreapp3.1\Methodsexcercise.genruntimeconfig.cache
